@@ -1,0 +1,47 @@
+Pengantar Ekonomi
+
+Bagaimana mengelola rumah tangga (turunan dari bahasa Yunani)
+
+Setiap “rumah tangga” membutuhkan banyak amat. Resource harus dikelola sedemikian rupa agar kita dapat membuat keputusan terbaik di dalam hidup di kondisi keterbatasan resources
+
+Economy -> Making decisions yang rasional
+Suka atau tidak, you will be thankful to learn how to make decisions
+
+“Pacaran itu supply and demand. Kamu terlalu kasih perhatian (supply banyak), harganya jatuh. How to supply, so you can get the right price”
+
+Ilmu ekonomi didasarkan oleh keinginan banyak manusia (unlimited desires), kalau need masih bisa dikontrol. Sementara resource terbatas (e.g uang, waktu). Then you have to make a choice
+
+10 Prinsip Ekonomi
+
+1. People face tradeoffsemua manusia berhadapan dengan tradeoff. e.g semua mahasiswa duduk di audotorium UI untuk mendengarkan seminar, they giving time to do something else (ada opportunity yang hilang).we
+2. The cost of something is what you give up to get itIt’s choice. We are not just thinking about tradeoff (berapa biaya, cost, dll) but we give up other choice or alternative goals.
+3. Rational people think at the Margin Cost and Marginal Revenuemembandingkan manfaat dan biaya dari sisi bedanya (margin). misal, makan bakso. satu mangkok pertama 15000, kita puas karna laper dan mau membayar sebesar itu. lalu ketika diberikan bakso lagi dengan harga yang sama, value nya tetep menurun (kita dah kenyang) - marginal utility (tambahan kepuasaan)
+4. People respond to incentiveincentive dapat mempengaruhi margin manfaat vs margin cost. Insentive melakukan distruption terhadap tradeoff, decision dan margin. Mobil listrik menarik karna ada insentif dari pemerintah (pajak kecil)
+5. Trade can make everyone better offdarpada berusaha utk memenuhi kebutusan dengan cara sendiri, produsen bisa membuat suatu barang atau jasa yang dapat ditukar dengan barang atau jasa lainnya. Market adalah mutually benefit for both sides. Ada invisible hand (insentif) yang menggerakan konsumer maupun produsen untuk memenuhi kebutuhannya((double check))
+6. Markets are usually a good way to organize economic activitytapi bukan the only way untuk mengatur manusia karena market bisa efisiensi dan eksploitatif. Kalo market failure (misal kerusakan lingkungan dan punya konsekuensi kesehatan), biasanya pemerintah akan turun dengan melakukan intervensi terhadap market. market diatur dengan our needs
+7. Gov can sometimes improve market outcomesketika market tidak sempurna, dateng pemerintah untuk melakukan intervensi melalui aturan (melawan market).seluruh pengusaha tidak bole membayar pekerja tetap di bawah UMR.However, pemerintah juga bisa gagal jika bertindak eksploitatif makanya ada dewan pemerintah untuk mengecek setiap kebijakan pemerintah.
+8. A country’s standard of living depends on its ability to produce goods and servicesUkuran suatu negara dikatakan makmur secara ekonomi adalah how much they can produce goods and services. produksi barang dan jasa itu ditentukan oleh market dan digabung dengan regulasi pemerintah
+9. Growth of money leads to inflationInflasi basically bank sentral printing too much money, uang mengejar barang yang sedikit maka harga barangnya naik padahal value nya sama
+10. Society faces a short-run tradeoff between inflation and unemploymentdi dalam perekonomian, adil dan sejahtera adalah keinginan seluruh negara. tapi bagiamanapun mengelola perekonomian seringkali dihadapkan oleh tradeoff. dalam jangka pendek, kalo mau mengejar unemployment nya serendah mungkin kasih duit aja- bank sentral nyetak duit, sebar ke orang- orang punya banyak duit, akan dibelanjakan- produksi naik (yang tadi tukang bakso pelanggan 100 sehari, jadi 200 sehari)- employment naik (tukang bakso butuh hire karyawan baru utk memenuhi kebutuhannya (penciptaan lapangan pekerjaan))namun peningkatan kesempatan pekerjaan bisa saja meningkatkan excess inflation. makanya dalam mengelola ekonomi selalu dicari takarannya pada unemployment mana yang tidak menimbulkan inflasi yang tinggi (inflasi menggerus daya beli masyarakat)
+
+Note:
+1-4 core, prinsip decision making di ilmu ekonomi yang bisa diimplementasi di kehidupan kita, apalagi utk keputusan yang rasional. yang distrupsi biasanya emotion, social or people value
+5-10 implementasi ekonomi
+
+1-5 micro economy
+6-10 macro econonmu
+
+About Micro and Macro Economy
+micro economy -> keputusan household dan produsen
+macro economy -> agregat dari seluruh decision making (luar negri, dalam negri)
+
+dari bangun tidur sampai tidur, kita bergantung dengan berbagai produk dan jasa yang terlihat maupun tidak.
+ada jutaan manusia consume dan produce.
+
+utk penyederhanaan pemahanan ekonomi yang begitu banyak, kita membuat model untuk simplikasi
+- menyederhanakan orang yang decision making beli barang A, makan barang X, aplikasi Z
+
+
+Contoh dua model:
+circular-flow diagram, menggambarkan ekonomi dengan manusianya menjadi apa yang disebut interaksi antara konsumen dan produsen
+production
