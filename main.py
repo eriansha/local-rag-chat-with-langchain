@@ -2,10 +2,9 @@ import os
 from dotenv import load_dotenv
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
-from langchain_community.chat_models import ChatOpenAI
 
 # Load environment variables
 load_dotenv()
@@ -35,5 +34,5 @@ while True:
     query = input("You: ")
     if query.lower() == "exit":
         break
-    answer = qa_chain.run(query)
+    answer = qa_chain.invoke(query)
     print("🤖:", answer)
