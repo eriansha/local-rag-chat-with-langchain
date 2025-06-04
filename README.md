@@ -2,7 +2,7 @@
 
 A simple command-line chatbot powered by **LangChain**, **FAISS**, and **OpenAI**, designed to answer your questions using your **local notes**.
 
-This project implements a lightweight version of Retrieval-Augmented Generation (RAG), where you can ask questions and get answers grounded in your `.txt` or `.md` files — all stored locally.
+This project implements a lightweight version of Retrieval-Augmented Generation (RAG), where you can ask questions and get answers grounded in your `.txt` files — all stored locally.
 
 
 ## 📦 Features
