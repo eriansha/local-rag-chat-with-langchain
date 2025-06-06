@@ -20,7 +20,6 @@ This project implements a lightweight version of Retrieval-Augmented Generation 
 - Python 3.9+
 
 ## 📌 Roadmap
- - [ ] Add persistent FAISS index
  - [ ] Support Notion, PDF, and web article loaders
  - [ ] Add a simple UI with Streamlit
  - [ ] Enable fully offline mode (local LLM + HuggingFace embeddings)
