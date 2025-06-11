@@ -1,4 +1,12 @@
+# python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# environemnt
 .env
 
+# FAISS
 /faiss_index
 file_timestamps.json

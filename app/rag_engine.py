@@ -8,7 +8,6 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 
-
 NOTES_DIR = "notes"
 TIMESTAMP_FILE = "file_timestamps.json"
 FAISS_INDEX = "faiss_index"
@@ -65,7 +64,7 @@ def load_existing_document():
     embeddings = OpenAIEmbeddings()
     return FAISS.load_local(FAISS_INDEX, embeddings, allow_dangerous_deserialization=True)
 
-if __name__ == "__main__":
+def get_qa_chain(handler):
     # Load environment variables
     load_dotenv()
 
@@ -80,16 +79,8 @@ if __name__ == "__main__":
 
     # Create a retriever-based QA chain
     retriever = vectorstore.as_retriever()
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=ChatOpenAI(temperature=0),
+    return RetrievalQA.from_chain_type(
+        llm=ChatOpenAI(temperature=0, streaming=True, callbacks=[handler]),
         retriever=retriever,
     )
 
-    # Interactive Q&A
-    print("🧠 Ask me anything based on your notes (type 'exit' to quit)")
-    while True:
-        query = input("You: ")
-        if query.lower() == "exit":
-            break
-        answer = qa_chain.invoke(query)
-        print("🤖:", answer)
